@@ -2,7 +2,7 @@
 
 For this section, I am going to reference [a common web article definition of the core Kanban principles](https://www.wrike.com/kanban-guide/kanban-principles-practices/) and discuss how they operate in industry and could fit into FRC development. Give the link a quick read before proceding below.
 
-***Let's review some terminology:***
+## ***Let's review some terminology:***
 - `Ticket/Issue`: A work item that adheres to our Kanban card templating format. See the section below named "Writing GitHub Issues for Kanban" for additional details.
 
 - `Sprint`: A unit of time (typically one week) that defines a work cycle for completing tickets.
@@ -17,7 +17,7 @@ For this section, I am going to reference [a common web article definition of th
 
 - `Retrospective`: An hour or so long meeting at the end of a sprint, typically arbitered by the scrum master, where finished tickets are analysed for completeness. Typically, by adhering to "acceptance criteria" that were originally defined with the ticket. At this point, any roadblocks are discussed and mitigated.  
 
-***Writing GitHub Issues for Kanban (See example [here](https://github.com/Team2890HawkCollective/TaskTracking2024/issues/1)):*** 
+## ***Writing GitHub Issues for Kanban (See example [here](https://github.com/Team2890HawkCollective/TaskTracking2024/issues/1)):*** 
 
 Components for a GitHub kanban ticket (2. Principle of Limit Work-In-Progress):
 - `Name`: The name of the ticket. This should provide a few words that serve as a quick summary of the task.
@@ -29,7 +29,7 @@ Components for a GitHub kanban ticket (2. Principle of Limit Work-In-Progress):
 - `Labels (GitHub specific)`: GitHub Labels that can be created and applied to the ticket to provide high-level insight on common topics associated with this work.
 - `Projects (GitHub specific)`: The GitHub project board to associate this ticket with. 
 
-***Team 2890's Kanban board layout (1. Principle of Visualisation), which is available at [this link](https://github.com/orgs/5804/projects/1/views/1):***
+## ***Team 5804's Kanban board layout (1. Principle of Visualisation), which is available at [this link](https://github.com/orgs/5804/projects/1/views/1):***
   
   * `IceBox`: A column for tasks that are overcome by objectives. Things in the icebox are low-priority tasks that will likely not be put into development until there is a new availability of work or circumstance change.  
 
