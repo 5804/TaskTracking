@@ -33,3 +33,6 @@ This ticket is a self guided task through Spectrum's intro to Java course. By re
 
 ## 📓 Notes
 - Reach out in the #programming channel on the 5804 discord if you have any questions or need assistance!
+
+## 🎈 Size
+3
