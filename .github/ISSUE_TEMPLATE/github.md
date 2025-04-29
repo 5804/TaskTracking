@@ -12,6 +12,7 @@ GitHub is an online platform used to host Git repositories. It provides addition
 
 ## 📂 Acceptance Criteria
 - [ ] Review the work ticket structure outlined in the README.md file of the TaskTracking repo.
+- [ ] Read the [markdown document on Kanban](https://github.com/5804/TaskTracking/blob/main/docs/kanban.md) practices for the 5804 TaskTracking repo.
 - [ ] Create an issue called "[LEARNING] {yourFullNameInCamelCase} - Structuring Kanban Tickets" in the [TaskTracking repo](https://github.com/5804/TaskTracking/tree/main). For example: "[LEARNING] gavinAlberghini - Structuring Kanban Tickets".
   - [ ] Assign the created ticket to @5804/mentors
   - [ ] In the body of the issue, explain the use for Description, Acceptance Criteria, Resources/Additional References, Notes, and Size
