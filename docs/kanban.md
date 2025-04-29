@@ -17,7 +17,7 @@ For this section, I am going to reference [a common web article definition of th
 
 - `Retrospective`: An hour or so long meeting at the end of a sprint, typically arbitered by the scrum master, where finished tickets are analysed for completeness. Typically, by adhering to "acceptance criteria" that were originally defined with the ticket. At this point, any roadblocks are discussed and mitigated.  
 
-## ***Writing GitHub Issues for Kanban (See example [here](https://github.com/Team2890HawkCollective/TaskTracking2024/issues/1)):*** 
+## ***Writing GitHub Issues for Kanban (See example [here](https://github.com/5804/TaskTracking/issues/3)):*** 
 
 Components for a GitHub kanban ticket (2. Principle of Limit Work-In-Progress):
 - `Name`: The name of the ticket. This should provide a few words that serve as a quick summary of the task.
