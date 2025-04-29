@@ -20,4 +20,4 @@ This section of the ticket defines the EXPLICIT tasks that MUST be accomplished 
 - Any additional information to provide with this task
 
 ## 🎈 Size
-A numeric rating (typically 1-5) denoting the level of effort for this task.
+A numeric rating (typically 1-3) denoting the level of effort for this task.
