@@ -34,3 +34,6 @@ Git is a version control system that helps teams manage and track changes to the
 ## 📓 Notes
 - When making a push to a remote branch, a link to generate the corresponding pull request will appear in your console.
 - GitHub in the command line no longer accepts passwords. You will need to use an access token in place of your password. Please follow the GitHub Access token tutorial above to learn how.
+
+## 🎈 Size
+2
