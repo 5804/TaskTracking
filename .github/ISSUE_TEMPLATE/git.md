@@ -4,7 +4,6 @@ about: A templated learning task covering basic Git skills. Simply assign yourse
 title: '[LEARNING] Git'
 labels: ''
 assignees: ''
-projects: `5804/1`
 ---
 
 ## 🎯 Description
