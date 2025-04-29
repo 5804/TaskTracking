@@ -25,3 +25,6 @@ GitHub is an online platform used to host Git repositories. It provides addition
 
 ## 📓 Notes
 - Resolving merge conflicts will not be demonstrated in this task, but it is important to understand the concept.
+
+## 🎈 Size
+1
