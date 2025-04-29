@@ -10,7 +10,7 @@ assignees: ''
 
 Git is a version control system that helps teams manage and track changes to their code. In this task, you'll practice using Git for basic operations like cloning, branching, committing, pushing, and creating pull requests.
 
-### Acceptance Criteria
+## 📂 Acceptance Criteria
 - [ ] Clone the TaskTracking repo to your computer.
 - [ ] Create a new branch using your name.
 - [ ] Add and commit a file under `/Student/{yourFullNameInCamelCase}/README.md` in this repo. 
@@ -19,7 +19,7 @@ Git is a version control system that helps teams manage and track changes to the
 - [ ] Create a pull request from your push.
 - [ ] Ask a mentor to review your pull request
 
-### Additional References
+## 🔗 Additional References
 - Git installation instructions
   - [Official Git Docs](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   - [GitHub Install Git Tutorial](https://github.com/git-guides/install-git)
@@ -31,6 +31,6 @@ Git is a version control system that helps teams manage and track changes to the
 - [Git pull request tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ&t=100s)
 - [GitHub access token tutorial](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
-### Notes
+## 📓 Notes
 - When making a push to a remote branch, a link to generate the corresponding pull request will appear in your console.
 - GitHub in the command line no longer accepts passwords. You will need to use an access token in place of your password. Please follow the GitHub Access token tutorial above to learn how.
