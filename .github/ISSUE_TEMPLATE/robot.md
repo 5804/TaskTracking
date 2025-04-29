@@ -17,3 +17,6 @@ TBD
 
 ## 📓 Notes
 TBD
+
+## 🎈 Size
+3
