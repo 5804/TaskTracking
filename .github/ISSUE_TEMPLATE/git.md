@@ -1,6 +1,6 @@
 ---
 name: '[LEARNING] Git'
-about: A templated learning task covering basic Git skills. Simply assign yourself to the task and complete it as instructed below.
+about: A templated learning task covering basic Git skills. Assign yourself to the task and complete it as instructed below.
 title: '[LEARNING] Git'
 labels: ''
 assignees: ''
