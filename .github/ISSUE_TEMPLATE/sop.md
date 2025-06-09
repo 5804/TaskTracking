@@ -17,7 +17,7 @@ This ticket is meant to serve as a template for writing new standard operating p
 - [ ] Delete any notes next to the SOP titles.
 
 ## 🔗 Additional References
-- N/A
+- [UpdatingCTREDevices.md](docs/sops/UpdatingCTREDevices.md)
 
 ## 📓 Notes
 - Standard Operating Procedure Template:
