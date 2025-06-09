@@ -2,6 +2,7 @@
 
 ### Agent types
 -- = Build Season
+
 xx = Competition
 
 ### Agents
