@@ -1,6 +1,6 @@
 ---
 name: '[LEARNING] Java'
-about: A templated learning task covering basic Java skills. Simply assign yourself to the task and complete it by following the instructions.
+about: A templated learning task covering basic Java skills. Assign yourself to the task and complete it by following the instructions.
 title: '[LEARNING] Java'
 labels: ''
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 
 ## 🎯 Description
 
-This ticket is a self guided task through Spectrum's intro to Java course. By reading through each section you will be able to better understand how to write Java code for the robot!
+This ticket is a self-guided task through Spectrum's intro to Java course. By reading through each section, you will be able to better understand how to write Java code for the robot!
 
 ## 📂 Acceptance Criteria
 - Read the following sections of the [Spectrum (3847) intro to Java course](https://docs.google.com/document/d/e/2PACX-1vQk_ghFBN7682QI_17lbBCx8V_RXNomQRR7er-UIzlllsbdpO4RWOQAVnGFZAEypeNm2grS2G9oxFMp/pub):
@@ -32,7 +32,7 @@ This ticket is a self guided task through Spectrum's intro to Java course. By re
   -  [FRC Command Based Programming Explained](https://www.youtube.com/watch?v=bQICW6xUJI8)
 
 ## 📓 Notes
-- Reach out in the #programming channel on the 5804 discord if you have any questions or need assistance!
+- Reach out in the #programming channel on the 5804 Discord if you have any questions or need assistance!
 
 ## 🎈 Size
 3
