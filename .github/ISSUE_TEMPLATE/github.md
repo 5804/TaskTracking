@@ -1,6 +1,6 @@
 ---
 name: '[LEARNING] GitHub'
-about: A templated task covering basic GitHub. Simply assign yourself to the task and complete it as instructed below.
+about: A templated task covering basic GitHub. Assign yourself to the task and complete it as instructed below.
 title: '[LEARNING] GitHub'
 labels: ''
 assignees: ''
