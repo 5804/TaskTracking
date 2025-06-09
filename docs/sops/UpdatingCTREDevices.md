@@ -1,4 +1,4 @@
-# Updating CTRE Devices
+# {WIP} Updating CTRE Devices
 
 ## Purpose
 - This SOP is for updating the firmware of CTRE Phoenix 5/6 devices using Phoenix Tuner X.
