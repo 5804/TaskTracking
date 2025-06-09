@@ -1,6 +1,6 @@
 ---
 name: '[LEARNING] Code A Robot'
-about: A templated learning task to cover Robot programming skills. Simply assign yourself to the task and complete it by following the instructions.
+about: A templated learning task to cover Robot programming skills. Assign yourself to the task and complete it by following the instructions.
 title: '[LEARNING] Code A Robot'
 labels: ''
 assignees: ''
@@ -14,7 +14,7 @@ You will go through a complete robot code deployment cycle, test and tune contro
 
 ## 📂 Acceptance Criteria
 - [ ] Complete a "zero-to-robot" exercise:
-  - [ ] Set up a 5804-style robot project in WipiLib. Be sure to reference [Gary-ctre](https://github.com/5804/Gary-ctre), [Crescendo2025](https://github.com/5804/Crescendo2025), and [Reefscape](https://github.com/5804/Reefscape) as needed. The Wipilib docs are your friend, they are available [here](https://docs.wpilib.org/en/2021/docs/software/vscode-overview/creating-robot-program.html#creating-a-robot-program).
+  - [ ] Set up a 5804-style robot project in WipiLib. Be sure to reference [Gary-ctre](https://github.com/5804/Gary-ctre), [Crescendo2025](https://github.com/5804/Crescendo2025), and [Reefscape](https://github.com/5804/Reefscape) as needed. The Wipilib docs are your friend; they are available [here](https://docs.wpilib.org/en/2021/docs/software/vscode-overview/creating-robot-program.html#creating-a-robot-program).
   - [ ] Generate a swerve configuration using [CTRE Swerve Generator](https://v6.docs.ctr-electronics.com/en/latest/docs/tuner/tuner-swerve/index.html).
 - [ ] Tune a PID loop (drive or turning PID) and document your process (include before/after values and graphs if possible).
 - [ ] Create a PathPlanner path and integrate it into your robot code.
@@ -29,7 +29,7 @@ You will go through a complete robot code deployment cycle, test and tune contro
 - [Crescendo2025](https://github.com/5804/Crescendo2025) — competition robot using swerve + PathPlanner
 - [Reefscape](https://github.com/5804/Reefscape) — Full-featured competition codebase
 - [PathPlanner docs](https://github.com/mjansen4857/pathplanner/wiki)
-- [Swerve Drive Specialties Setup](https://github.com/Swerve-Drive-Specialties/swerve-lib)
+- [Swerve Drive Specialities Setup](https://github.com/Swerve-Drive-Specialties/swerve-lib)
 
 ## 📓 Notes
 - This is a **required task** for students seeking leadership positions in controls, software, or strategy.
