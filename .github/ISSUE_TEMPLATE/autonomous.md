@@ -1,6 +1,6 @@
 ---
 name: '[LEARNING] Autonomous'
-about: Brief guide on PathPlanner and Choreo: two different applications used to write autonomous paths. Assign yourself to the task and complete it by following the instructions.
+about: Brief guide on PathPlanner and Choreo. two different applications used to write autonomous paths. Assign yourself to the task and complete it by following the instructions.
 title: '[LEARNING] Autonomous'
 labels: ''
 assignees: ''
