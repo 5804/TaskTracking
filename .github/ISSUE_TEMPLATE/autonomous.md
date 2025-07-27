@@ -11,7 +11,7 @@ assignees: ''
 This ticket is a quick introduction on how to use PathPlanner and Choreo to write autonomous paths.
 
 ## 📂 Acceptance Criteria
-- Read the appropriate sections of the [PathPlanner docs](https://pathplanner.dev/gui-editing-paths-and-autos.html) and understand what the following do and when to use them.
+- [ ] Read the appropriate sections of the [PathPlanner docs](https://pathplanner.dev/gui-editing-paths-and-autos.html) and understand what the following do and when to use them.
   - [ ]  Waypoints
   - [ ]  Event markers
   - [ ]  Rotation targets
@@ -19,7 +19,7 @@ This ticket is a quick introduction on how to use PathPlanner and Choreo to writ
   - [ ]  Constraint zones
   - [ ]  Path optimizer
   - [ ]  Path vs auto in PathPlanner
--  Create a path and auto utilizing all of the features above in PathPlanner. The path doesn't have to have a purpose or do anything specific.
+- [ ] Create a path and auto utilizing all of the features above in PathPlanner. The path doesn't have to have a purpose or do anything specific.
 
 - Read the appropriate sections of the [Choreo docs](https://choreo.autos/usage/editing-paths/)  and understand what the following do and when to use them.
   - [ ]  Pose, translation, and empty waypoints
@@ -29,7 +29,7 @@ This ticket is a quick introduction on how to use PathPlanner and Choreo to writ
     - [ ] Stop points
   - [ ] Event markers
   - [ ] Generating and saving paths
--  Create a path utilizing all of the features above in Choreo. The path doesn't have to have a purpose or do anything specific.
+- [ ] Create a path utilizing all of the features above in Choreo. The path doesn't have to have a purpose or do anything specific.
 
 ## 🔗 Additional References
 - Download links
@@ -43,4 +43,4 @@ This ticket is a quick introduction on how to use PathPlanner and Choreo to writ
 - Reach out in the #programming channel on the 5804 Discord if you have any questions or need assistance!
 
 ## 🎈 Size
-
+2
