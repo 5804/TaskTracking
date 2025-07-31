@@ -25,7 +25,7 @@ _Entry-level role for new members of the programming team._
   - ✅ [Git Basics (committing, branching, merging)](https://github.com/5804/TaskTracking/issues/new?template=git.md)
   - ✅ [GitHub Workflow (PRs, issues, forks)](https://github.com/5804/TaskTracking/issues/new?template=github.md)
   - ✅ Hardware Diagnostic Tools (REV, Phoenix Tuner, etc.)
-  - ✅ Firmware Updating Procedures for FRC hardware
+  - ✅ [Firmware Updating Procedures for FRC hardware](https://github.com/5804/TaskTracking/issues/new?template=firmware.md)
 
 **Goal:** Build foundational skills to contribute to robot software and collaborate effectively with the team.
 
