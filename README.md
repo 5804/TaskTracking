@@ -61,7 +61,7 @@ _Lead programmer and technical mentor for the team. Works closely with team lead
 #### **Veteran Programmer**
 - Leads feature branches or subsystem development (e.g., drivetrain, shooter, intake).
 - Mentors new programmers on tools, codebase, and workflow.
-- Writes and maintains unit tests or simulation code.
+- Writes and maintains automation for system checks. 
 - Participates in and gives constructive feedback during code reviews.
 - Helps manage GitHub issues and project boards.
 
