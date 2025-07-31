@@ -60,7 +60,7 @@ _Lead programmer and technical mentor for the team. Works closely with team lead
 
 ---
 
-### 📋 Responsibilities
+## 📋 Responsibilities
 
 #### **Programmer**
 - Adheres to version control standards (branching, committing, PRs).
@@ -86,7 +86,7 @@ _Lead programmer and technical mentor for the team. Works closely with team lead
 
 ---
 
-### ⚠️ Expectations for All Programmers
+## ⚠️ Expectations for All Programmers
 - Follow the [Team 5804 Programming Code of Conduct](#) and the **13 Behaviors of High-Trust Team Members**.
 - Stay up-to-date with training modules and team communications.
 - Work collaboratively and respectfully with peers, mentors, and other subteams.
@@ -95,7 +95,7 @@ _Lead programmer and technical mentor for the team. Works closely with team lead
 
 ---
 
-### 📈 Growth & Evaluation
+## 📈 Growth & Evaluation
 
 Promotions from **Programmer → Veteran → Captain** are based on:
 - Completion of required learning modules  
