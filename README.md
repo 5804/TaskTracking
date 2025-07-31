@@ -2,6 +2,17 @@
 
 This repository houses 5804 programming core materials, including: Learning Materials, Role Definitions, and Team Best Practices/Documentation. This README provides a high-level overview of what it means to be on the programming team, as well as the various positions within the team. 
 
+---
+
+## Table of Contents
+- Roles & Learning Requirements
+- Responsibilities
+- Expectations for All Programmers
+- Growth & Evaluation
+- Code of Conduct
+
+---
+
 ## 🧑‍💻 Roles & Learning Requirements
 
 #### **Programmer** 🧑‍💻
