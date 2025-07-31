@@ -38,9 +38,11 @@ This ticket is a quick introduction on how to use PhotonVision to config Arducam
     - [ ]  Read the PhotonVision docs if more thourough documentation is needed.
 
 ## 🔗 Additional References
-[PhotonVision Docs](https://docs.photonvision.org/en/v2025.3.2/index.html)
-[Image download](https://github.com/PhotonVision/photonvision/releases/tag/v2025.3.2)
-[BalenaEtcher](https://etcher.balena.io/)
+- Download links
+  - [Image download](https://github.com/PhotonVision/photonvision/releases/tag/v2025.3.2)
+  - [BalenaEtcher](https://etcher.balena.io/)
+- Documentation
+  - [PhotonVision Docs](https://docs.photonvision.org/en/v2025.3.2/index.html)
 
 ## 📓 Notes
 - Reach out in the #programming channel on the 5804 Discord if you have any questions or need assistance!
