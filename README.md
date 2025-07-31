@@ -10,9 +10,9 @@ _Entry-level role for new members of the programming team._
 **Requirements:**
 - Join the 5804 GitHub Organization.
 - Complete the following foundational learning modules:
-  - ✅ Java Basics & OOP Principles
-  - ✅ Git Basics (committing, branching, merging)
-  - ✅ GitHub Workflow (PRs, issues, forks)
+  - ✅ [Java Basics & OOP Principles](https://github.com/5804/TaskTracking/issues/new?template=java.md)
+  - ✅ [Git Basics (committing, branching, merging)](https://github.com/5804/TaskTracking/issues/new?template=git.md)
+  - ✅ [GitHub Workflow (PRs, issues, forks)](https://github.com/5804/TaskTracking/issues/new?template=github.md)
   - ✅ Hardware Diagnostic Tools (REV, Phoenix Tuner, etc.)
   - ✅ Firmware Updating Procedures for FRC hardware
 
@@ -26,9 +26,9 @@ _Programmers who have demonstrated core competency and contributed meaningfully 
 **Requirements:**
 - Complete all Programmer-level modules.
 - Complete the following intermediate modules:
-  - ✅ Kanban & Agile Practices (using Trello or GitHub Projects)
-  - ✅ FRC Robot Coding (subsystems, commands, schedulers)
-  - ✅ Autonomous Programming (path planning, sensors, motion profiling)
+  - ✅ [Kanban & Agile Practices (using Trello or GitHub Projects)](https://github.com/5804/TaskTracking/issues/new?template=kanban.md)
+  - ✅ [FRC Robot Coding (subsystems, commands, schedulers)](https://github.com/5804/TaskTracking/issues/new?template=robot.md)
+  - ✅ [Autonomous Programming (path planning, sensors, motion profiling)](https://github.com/5804/TaskTracking/issues/new?template=autonomous.md)
 
 **Goal:** Take ownership of code subsystems, mentor newer programmers, and support autonomous and competition-ready code.
 
@@ -41,8 +41,7 @@ _Lead programmer and technical mentor for the team. Works closely with team lead
 - Complete all Programmer + Veteran modules.
 - Demonstrate excellence in team collaboration and problem-solving.
 - Complete advanced modules such as:
-  - ✅ Code Research & Optimization
-  - ✅ Architecture & Design Patterns (modularization, interfaces, dependency injection)
+  - ✅ [Code Research & Optimization](https://github.com/5804/TaskTracking/issues/new?template=research.md)
   - ✅ Advanced Vision or Sensor Integration (Limelight, photonvision, etc.)
   - ✅ Build Season Leadership & Code Review Practices
 
