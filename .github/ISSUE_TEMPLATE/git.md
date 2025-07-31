@@ -17,8 +17,7 @@ Git is a version control system that helps teams manage and track changes to the
 - [ ] Add and commit a file under `/Student/{yourFullNameInCamelCase}/README.md` in this repo. 
   - This README.md file should contain an image you create to introduce yourself to the rest of the team. See [Gavin's GitHub README](https://github.com/gavinjalberghini/gavinjalberghini) for inspiration.  
 - [ ] Push the commit to your branch.
-- [ ] Create a file named `config` under `/Student/{yourFullNameInCamelCase}/`
-  - This file is your SSH config to be loaded onto the programming laptops. Watch the video named [Git setting up SSH access for multiple users](https://www.youtube.com/watch?v=jGwD3e1BZ5Y) for information about how to set up this file and how it will be used. 
+- [ ] Make sure the commit is from your account -- Open Git bash and run this command: `git config --global user.email "YOUR_EMAIL"` (this is the same email that is linked to your Github account)
 - [ ] Create a pull request from your push.
 - [ ] Ask a mentor to review your pull request
 
