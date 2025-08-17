@@ -17,7 +17,7 @@ This ticket is meant to serve as a template for writing new standard operating p
 - [ ] Delete any notes next to the SOP titles.
 
 ## 🔗 Additional References
-- N/A
+- [UpdatingCTREDevices.md](/docs/sops/UpdatingCTREDevices.md) <!-- If you want to link to a file in sops, you have to add a "/" before your path, so that it is relative to the root the repo. "docs/sops/UpdatingCTREDevices.md" will not work because it is relative to the current directory. (https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file) -->
 
 ## 📓 Notes
 - Standard Operating Procedure Template:
