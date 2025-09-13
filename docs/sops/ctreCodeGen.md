@@ -31,7 +31,8 @@ This is a step-by-step guide to generating swerve code for a new robot.
       - Module is first
       - Then "Drive" for drive motors, "Angle" for the steering/angle motors, or "CAN" for CANcoders
         - Other devices can be named up to preference
-      - Example: The drive motor on the front left module would be "frontLeftDrive"
+  - Refer to this diagram for an example:
+      - [MK4i Front Left Module](https://drive.google.com/file/d/1XoqtfYNoyG_i1_oMf_ftqzHrvzdxan-I/view?usp=sharing)
 - Make any firmware updates if needed
 - (Apply licenses?)
 
