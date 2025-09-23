@@ -1,7 +1,7 @@
 ---
-name: '[LEARNING] Vision'
+name: '[LEARNING] Photon Vision'
 about: Brief guide on PhotonVision. Assign yourself to the task and complete it by following the instructions.
-title: '[LEARNING] Vision'
+title: '[LEARNING] Photon Vision'
 labels: ''
 assignees: ''
 ---
@@ -12,14 +12,14 @@ This ticket is a quick introduction on how to use PhotonVision to config Arducam
 
 ## 📂 Acceptance Criteria
 - [ ] Coprocessor Networking
-  - [ ] When multiple cameras are needed on a robot, our team uses a configuration that utilizes a network switch in order to send data to each coprocessor. Remeber, each camera needs both data and power in order to operate correctly.
+  - [ ] When multiple cameras are needed on a robot, our team uses a configuration that utilises a network switch to send data to each coprocessor. Remember, each camera requires both data and power to operate correctly.
   - [ ] Use the following configuration when wiring the network switch, coprocessor, and camera.
 <img width="682" height="501" alt="Screenshot 2025-07-31 at 1 52 38 PM" src="https://github.com/user-attachments/assets/65ba1fc3-75b9-4415-9738-2c3dbec19750" />
 
 - [ ] Coprocessor Setup
-  - [ ] Dowload the corresponding image for your coprocessor from the [Github page](https://github.com/PhotonVision/photonvision/releases/tag/v2025.3.2)
-  - [ ] Use [BalenaEtcher](https://etcher.balena.io/) to transfer the Photonvision image to an micro-SD card. (The SD card must be plugged into your computer.)
-  - [ ] Sometimes the micro-SD card is corrupted and cannot be transferred files using BalenaEtcher. In this instance, use a different micro-SD card.
+  - [ ] Download the corresponding image for your coprocessor from the [Github page](https://github.com/PhotonVision/photonvision/releases/tag/v2025.3.2)
+  - [ ] Use [BalenaEtcher](https://etcher.balena.io/) to transfer the Photonvision image to a micro-SD card. (The SD card must be plugged into your computer.)
+  - [ ] Sometimes the micro-SD card is corrupted and cannot transfer files using BalenaEtcher. In this instance, use a different micro-SD card.
 - [ ] Photonvision Pipeline
   - [ ]  If you have no existing camera with Photonvision Pipeline settings you wish to copy, follow instructions from the [PhotonVision Docs](https://docs.photonvision.org/en/v2025.3.2/docs/quick-start/networking.html).
   - [ ]  If you wish to copy the settings of an existing camera, use the following steps:
