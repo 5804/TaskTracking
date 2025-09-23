@@ -21,9 +21,9 @@ _Entry-level role for new members of the programming team._
 **Requirements:**
 - Join the 5804 GitHub Organization.
 - Complete the following foundational learning modules:
-  - ✅ [Java Basics & OOP Principles](https://github.com/5804/TaskTracking/issues/new?template=java.md)
-  - ✅ [Git Basics (committing, branching, merging)](https://github.com/5804/TaskTracking/issues/new?template=git.md)
   - ✅ [GitHub Workflow (PRs, issues, forks)](https://github.com/5804/TaskTracking/issues/new?template=github.md)
+  - ✅ [Git Basics (committing, branching, merging)](https://github.com/5804/TaskTracking/issues/new?template=git.md)
+  - ✅ [Java Basics & OOP Principles](https://github.com/5804/TaskTracking/issues/new?template=java.md)
   - ✅ Hardware Diagnostic Tools (REV, Phoenix Tuner, etc.)
   - ✅ [Firmware Updating Procedures for FRC hardware](https://github.com/5804/TaskTracking/issues/new?template=firmware.md)
 
