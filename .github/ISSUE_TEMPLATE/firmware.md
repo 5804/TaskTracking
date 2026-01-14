@@ -30,6 +30,7 @@ This ticket includes documentation to better familiarize yourself with the elect
 - [Updating Windows 11](https://support.microsoft.com/en-us/windows/install-windows-updates-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a)
 
 ## 📓 Notes
+- For the radio, once firmware has been updated or installed to, check the status of the radio at http://192.168.69.1/status or http://10.XX.YY.1/status depending on if you have or haven't set a team number to the radio. Remember to check the status page before power cycling the robot after updating/installing firmware.
 - Reach out in the #programming channel on the 5804 Discord if you have any questions or need assistance!
 
 ## 🎈 Size
